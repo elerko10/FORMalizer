@@ -1,2 +1,2 @@
-Hi. this is readme.txt
+Hi. this is real readme.txt
 
